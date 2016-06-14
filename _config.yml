@@ -1,0 +1,28 @@
+name: zokeworksV2
+favicon: null
+layout_spectrum: 0.5697433829773217
+typography_spectrum: 0.30170076666399837
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7496448184829205
+  lightness: 0.980212883092463
+  saturation: 0.3808283372782171
+  rhythmicContrast: 0.33886606339365244
+purpose: []
