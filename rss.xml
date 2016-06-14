@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[zokeworksV2]]></title>
         <description><![CDATA[zokeworksV2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zokeworksv2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 22:13:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 14 Jun 2016 22:22:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zokeworksv2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3016b0c-bc3e-49f1-9dd8-76ebe45c0deb.jpg">]]></description>
+            <link>https://thegrid.ai/zokeworksv2/boys-and-girls-club/index.html</link>
+            <guid isPermaLink="false">a736e728-33bc-4e4c-8627-73a5cc43ec27</guid>
+            <pubDate>Tue, 14 Jun 2016 22:22:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a5a68d9-6576-460c-a575-e673f6a197b4.jpg">]]></description>
-            <link>undefinedseedless/index.html</link>
+            <link>https://thegrid.ai/zokeworksv2/seedless/index.html</link>
             <guid isPermaLink="false">1bc92f5a-75b3-4d5d-9d1e-5815996ce0ea</guid>
             <pubDate>Tue, 14 Jun 2016 22:13:41 GMT</pubDate>
         </item>
